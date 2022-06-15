@@ -1,0 +1,15 @@
+C:\Users\Dawid\Dropbox\Nauka_Programowania\C#\DijkstraShortestPath\DijkstraShortestPath\DijkstraShortestPath\bin\Debug\net6.0\DijkstraShortestPath.exe
+C:\Users\Dawid\Dropbox\Nauka_Programowania\C#\DijkstraShortestPath\DijkstraShortestPath\DijkstraShortestPath\bin\Debug\net6.0\DijkstraShortestPath.deps.json
+C:\Users\Dawid\Dropbox\Nauka_Programowania\C#\DijkstraShortestPath\DijkstraShortestPath\DijkstraShortestPath\bin\Debug\net6.0\DijkstraShortestPath.runtimeconfig.json
+C:\Users\Dawid\Dropbox\Nauka_Programowania\C#\DijkstraShortestPath\DijkstraShortestPath\DijkstraShortestPath\bin\Debug\net6.0\DijkstraShortestPath.dll
+C:\Users\Dawid\Dropbox\Nauka_Programowania\C#\DijkstraShortestPath\DijkstraShortestPath\DijkstraShortestPath\bin\Debug\net6.0\DijkstraShortestPath.pdb
+C:\Users\Dawid\Dropbox\Nauka_Programowania\C#\DijkstraShortestPath\DijkstraShortestPath\DijkstraShortestPath\obj\Debug\net6.0\DijkstraShortestPath.csproj.AssemblyReference.cache
+C:\Users\Dawid\Dropbox\Nauka_Programowania\C#\DijkstraShortestPath\DijkstraShortestPath\DijkstraShortestPath\obj\Debug\net6.0\DijkstraShortestPath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dawid\Dropbox\Nauka_Programowania\C#\DijkstraShortestPath\DijkstraShortestPath\DijkstraShortestPath\obj\Debug\net6.0\DijkstraShortestPath.AssemblyInfoInputs.cache
+C:\Users\Dawid\Dropbox\Nauka_Programowania\C#\DijkstraShortestPath\DijkstraShortestPath\DijkstraShortestPath\obj\Debug\net6.0\DijkstraShortestPath.AssemblyInfo.cs
+C:\Users\Dawid\Dropbox\Nauka_Programowania\C#\DijkstraShortestPath\DijkstraShortestPath\DijkstraShortestPath\obj\Debug\net6.0\DijkstraShortestPath.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\Dropbox\Nauka_Programowania\C#\DijkstraShortestPath\DijkstraShortestPath\DijkstraShortestPath\obj\Debug\net6.0\DijkstraShortestPath.dll
+C:\Users\Dawid\Dropbox\Nauka_Programowania\C#\DijkstraShortestPath\DijkstraShortestPath\DijkstraShortestPath\obj\Debug\net6.0\refint\DijkstraShortestPath.dll
+C:\Users\Dawid\Dropbox\Nauka_Programowania\C#\DijkstraShortestPath\DijkstraShortestPath\DijkstraShortestPath\obj\Debug\net6.0\DijkstraShortestPath.pdb
+C:\Users\Dawid\Dropbox\Nauka_Programowania\C#\DijkstraShortestPath\DijkstraShortestPath\DijkstraShortestPath\obj\Debug\net6.0\DijkstraShortestPath.genruntimeconfig.cache
+C:\Users\Dawid\Dropbox\Nauka_Programowania\C#\DijkstraShortestPath\DijkstraShortestPath\DijkstraShortestPath\obj\Debug\net6.0\ref\DijkstraShortestPath.dll
